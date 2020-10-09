@@ -1,4 +1,3 @@
-node_modules/*
-dist/*
-github/*
-/github/*
+node_modules/
+dist/
+github/
