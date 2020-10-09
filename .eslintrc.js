@@ -14,7 +14,6 @@ module.exports = {
     'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'eol-last': 0,
-    'linebreak-style': ['error', 'windows'],
     "indent": [2, 2],
   },
 };
